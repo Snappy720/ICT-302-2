@@ -1,6 +1,6 @@
 ---
-title: "Learning Report 9"
-date: 2020-08-12T00:00:00-04:00
+title: "Learning Report 10"
+date: 2020-10-25T00:00:00-04:00
 draft: false
 ---
 
