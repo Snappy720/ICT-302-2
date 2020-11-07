@@ -6,19 +6,19 @@ draft: false
 
 ##I can identify and define key concepts in (web) content management.
  
-I learned how CMSs impact how we use different applications
+I learned how AI can impact others
 
 ##I can describe and compare content management systems.
 
-I can compare and use management systems to identify CMSs
+I can compare different types of AI
 
 ##I can manage content using established workflows.
 
-Compared WordPress and Wix. 
+I know how AI affects others and can write about managing this in class.
 
 ##I can identify and employ technologies related to content management.
 
-I learned how to use WordPress and Wix.
+I am able to identify and explain what AI is.
 
 ##I can find and use resources for self-directed learning.
 
