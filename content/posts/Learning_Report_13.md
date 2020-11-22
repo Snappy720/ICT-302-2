@@ -14,7 +14,7 @@ draft: false
    - I can write about and describe things in WordPress to an extent
  
  I can identify and employ technologies related to content management.
-    - I can use WordPress and Hugo to deploy sites now.
+    - I can use WordPress and Hugo to deploy sites now
  
  I can find and use resources for self-directed learning.
-     - I can enlist help from peers and my teacher. I can also collaborate with classmates.
+     - I can enlist help from peers and my teacher. I can also collaborate with classmates
